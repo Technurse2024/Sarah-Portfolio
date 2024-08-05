@@ -1,0 +1,27 @@
+{
+  "portfolio": [
+    {
+      "title": "Weather App",
+      "description": "A weather application built with React that allows users to check the current weather conditions for any city.",
+      "image": "./img/weather-app.png",
+      "link": "https://github.com/Technurse2024/weather-app-react.git"
+    },
+    {
+      "title": "Website Capstone",
+      "description": "A software engineering capstone project designed to help users become heroes in their coding journey.",
+      "image": "./img/se-cap-hero.png",
+      "link": "https://github.com/Technurse2024/SE-Cap-Hero.git"
+    },
+    {
+      "title": "Rock Paper Scissors",
+      "description": "A classic Rock Paper Scissors game implemented in JavaScript.",
+      "image": "./img/rock-paper-scissors.png",
+      "link": "https://github.com/Technurse2024/Rock-Paper-Scissors.git"
+    }
+  ],
+  "resume": {
+    "link": "https://drive.google.com/file/d/1NxYMwFlXPyBm5-7AlenyYaU11zBcCtg0/view?usp=sharing"
+  }
+}
+
+    
